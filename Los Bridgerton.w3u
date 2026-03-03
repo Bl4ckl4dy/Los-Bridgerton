@@ -4,7 +4,7 @@
 "url": "https://raw.githubusercontent.com/Bl4ckl4dy/Los-Bridgerton/refs/heads/main/Los%20Bridgerton.w3u",
 "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
 "telegram": "Lista_AF1CIONADOS",
-"info": "",
+"info": "bY Virgin Mary",
 "groups":
     [
         {
@@ -253,42 +253,78 @@
         {
         "name": "Temporada 04",
         "info":"",
-        "image": "https://i.postimg.cc/nc9LG5CL/bridgerton04.jpg",
+        "image": "https://media.themoviedb.org/t/p/w130_and_h195_face/wyJ6mGyRTkkyAWVVoR47WodVDvg.jpg",
         "imageScale": "",
         "stations":
             [
                 {
-                "name": "El Vals",
+                "name": "4x01",
                 "info":"[Multiaudio]",
-                "image": "https://i.postimg.cc/nc9LG5CL/bridgerton04.jpg",
+                "image": "https://media.themoviedb.org/t/p/w130_and_h195_face/wyJ6mGyRTkkyAWVVoR47WodVDvg.jpg",
                 "url":"https://bysekoze.com/d/4vihipg7opdf",
                 "userAgent":"PlusMediaPlayer/0.0.9",
 		        "isHost": "true",
                 "online":"true"
                 },
 		        {
-                "name": "Tiempo paralizado",
+                "name": "4x02",
                 "info":"[Multiaudio]",
-                "image": "https://i.postimg.cc/nc9LG5CL/bridgerton04.jpg",
+                "image": "https://media.themoviedb.org/t/p/w130_and_h195_face/wyJ6mGyRTkkyAWVVoR47WodVDvg.jpg",
                 "url":"https://bysekoze.com/d/bt1e4lc9q3c5",
                 "userAgent":"PlusMediaPlayer/0.0.9",
 		        "isHost": "true",
                 "online":"true"
                 },
 		        {
-                "name": "El Campo Junto al Otro Camino",
+                "name": "4x03",
                 "info":"[Multiaudio]",
-                "image": "https://i.postimg.cc/nc9LG5CL/bridgerton04.jpg",
+                "image": "https://media.themoviedb.org/t/p/w130_and_h195_face/wyJ6mGyRTkkyAWVVoR47WodVDvg.jpg",
                 "url":"https://bysekoze.com/d/2ukfyc4ru30b",
                 "userAgent":"PlusMediaPlayer/0.0.9",
 		        "isHost": "true",
                 "online":"true"
                 },
 		        {
-                "name": "Te Doy Mi Corazón",
+                "name": "4x04",
                 "info":"[Multiaudio]",
-                "image": "https://i.postimg.cc/nc9LG5CL/bridgerton04.jpg",
+                "image": "https://media.themoviedb.org/t/p/w130_and_h195_face/wyJ6mGyRTkkyAWVVoR47WodVDvg.jpg",
                 "url":"https://bysekoze.com/d/8g1ijv9zhgk3",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+ },
+		        {
+                "name": "4x05",
+                "info":"[Multiaudio]",
+                "image": "https://media.themoviedb.org/t/p/w130_and_h195_face/wyJ6mGyRTkkyAWVVoR47WodVDvg.jpg",
+                "url":"https://byseraguci.com/d/98mj8ejisbqy/los-bridgerton-4x05",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                },
+		        {
+                "name": "4x06",
+                "info":"[Multiaudio]",
+                "image": "https://media.themoviedb.org/t/p/w130_and_h195_face/wyJ6mGyRTkkyAWVVoR47WodVDvg.jpg",
+                "url":"https://byseraguci.com/d/jw1ykh954hdw/los-bridgerton-4x06",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                },
+		        {
+                "name": "4x07",
+                "info":"[Multiaudio]",
+                "image": "https://media.themoviedb.org/t/p/w130_and_h195_face/wyJ6mGyRTkkyAWVVoR47WodVDvg.jpg",
+                "url":"https://byseraguci.com/d/p0ipa24i39ac/los-bridgerton-4x07",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+},
+		        {
+                "name": "4x08",
+                "info":"[Multiaudio]",
+                "image": "https://media.themoviedb.org/t/p/w130_and_h195_face/wyJ6mGyRTkkyAWVVoR47WodVDvg.jpg",
+                "url":"https://byseraguci.com/d/dtjogwfg44op/los-bridgerton-4x08",
                 "userAgent":"PlusMediaPlayer/0.0.9",
 		        "isHost": "true",
                 "online":"true"
